@@ -44,7 +44,9 @@ The correlation matrix helps us see how variables interact. For instance, there'
 # How to Run
 
 1 - Clone the repo
+
 2 - Install dependencies - pandas , numpy , seaborn , matplotlib
+
 3 - Run the notebook
 
 
